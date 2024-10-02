@@ -11,21 +11,5 @@ section.heading_1 {
 }
 
 section.heading_2 {
-    font-size:medium;
-}
-
-section.heading_3 {
-    font-size:medium;
-}
-
-section.heading_4 {
-    font-size:medium;
-}
-
-section.heading_5 {
-    font-size:medium;
-}
-
-section.heading_6 {
-    font-size:medium;
+    font-size:medium; 
 }

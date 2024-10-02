@@ -1,0 +1,31 @@
+body {
+    background: white;
+}
+img.photo {
+    width: 400px;
+    ;
+}
+
+section.heading_1 {
+    font-size:large;
+}
+
+section.heading_2 {
+    font-size:medium;
+}
+
+section.heading_3 {
+    font-size:medium;
+}
+
+section.heading_4 {
+    font-size:medium;
+}
+
+section.heading_5 {
+    font-size:medium;
+}
+
+section.heading_6 {
+    font-size:medium;
+}

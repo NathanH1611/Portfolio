@@ -13,3 +13,8 @@ section.heading_1 {
 section.heading_2 {
     font-size: medium;
 }
+
+iframe.thinglink{
+    width: 400px;
+    ;
+}
